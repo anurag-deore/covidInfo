@@ -6,7 +6,7 @@
 ```
 corona.lmao.ninja/v2/ 
 ```
-### Following are the Screenshots of the App
+### Screenshots
 <table>
   <tr>
     <td>
