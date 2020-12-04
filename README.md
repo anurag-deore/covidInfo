@@ -6,3 +6,26 @@
 ```
 corona.lmao.ninja/v2/ 
 ```
+### Following are the Screenshots of the App
+<table>
+  <tr>
+    <td>
+      <img width="200" height="400"  src="./images/Screenshot_1607107012.png">
+    </td>
+    <td>
+      <img width="200" height="400"  src="./images/Screenshot_1607107036.png">
+    </td>
+    <td>
+      <img width="200" height="400"  src="./images/Screenshot_1607107049.png">
+    </td>
+    <td>
+      <img width="200" height="400"  src="./images/Screenshot_1607107083.png">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img width="200" height="400"  src="./images/Screenshot_1607107100.png">
+    </td>
+  </tr>
+</table>
+</div>
